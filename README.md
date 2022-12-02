@@ -5,12 +5,8 @@ Basic tags for webpages with subpages.
 ## Instalation
 
 1. Create in your project folder **/inc** (for example) - for backend files - classes, functions etc
-2. Choose your destination for **Render Parts** , can you choose folder **/inc**
+2. Choose your destination for **SeoGenerator** , can you choose folder **/inc**
 3. `gh repo clone webites/SeoGenerator`
-4. Create folder with
-   - CSS files
-   - HTML, PHP templates
-5. Config your path in file RenderConfig.php
 
 ## Usage
 
